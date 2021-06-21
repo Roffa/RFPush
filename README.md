@@ -28,6 +28,7 @@ pod 'LSPush'
 
 由于mob库不支持Swift,每次更新本地framework，需要执行 pod lib lint  , 通过podspec动态生产module
 
+终端使用 'sh spec_new_tag_fast'可以快速打包成pod(提交到自己的索引库更改内部对应path)
 ## 使用
 ```
 //配置推送服务
