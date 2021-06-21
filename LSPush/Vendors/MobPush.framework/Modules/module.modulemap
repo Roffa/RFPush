@@ -1,0 +1,6 @@
+framework module MobPush {
+  umbrella header "MobPush.h"
+  export *
+  link "libz.1.2.5"
+  link "libc++"
+}

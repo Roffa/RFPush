@@ -1,0 +1,6 @@
+framework module MOBFoundation {
+  umbrella header "MOBFoundation.h"
+  export *
+  link "libz.1.2.5"
+  link "libc++"
+}
