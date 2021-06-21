@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LSPush'
-  s.version          = '0.1.6'
+  s.version          = '0.1.7'
   s.summary          = '推送组件'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'http://172.18.63.220/lanshan_ios/doc/lsbasis/lspush'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zrf' => 'zhourongfeng@021.com' }
+  s.author           = { 'roffa' => 'roffa@qq.com' }
   s.source           = { :git => 'http://172.18.63.220/lanshan_ios/doc/lsbasis/lspush.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_version    = '5.0'
